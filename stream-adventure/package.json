@@ -2,6 +2,7 @@
 	"type": "module",
 	"dependencies": {
 		"concat-stream": "^2.0.0",
+		"trumpet": "^1.7.2",
 		"ws": "^8.18.0"
 	}
 }
