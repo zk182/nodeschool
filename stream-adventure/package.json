@@ -1,6 +1,7 @@
 {
 	"type": "module",
 	"dependencies": {
-		"concat-stream": "^2.0.0"
+		"concat-stream": "^2.0.0",
+		"ws": "^8.18.0"
 	}
 }
